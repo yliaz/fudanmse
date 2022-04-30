@@ -1,9 +1,10 @@
 ---
 title: 【数据】2022级招考数据统计（修正版）
 description: 2022级复旦大学非全日制电子信息硕士研究生招考数据统计（修正版）
-icon: fa-study
+icon: diagram
 author: MSE 热线
 date: 2022-04-12 08:30:00
+sticky: 100
 category:
   - 数据统计
 tag:

@@ -1,4 +1,5 @@
 import { defineThemeConfig } from "vuepress-theme-hope";
+import { redirect, RedirectOptions } from "vuepress-plugin-redirect2";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
 
@@ -30,7 +31,7 @@ export default defineThemeConfig({
 
   displayFooter: true,
 
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime", "Word"],
+  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   darkmode: "switch",
 

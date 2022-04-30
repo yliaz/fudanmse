@@ -1,11 +1,11 @@
 ---
-title: 【名单】上海双一流 + 全国计算机非全名单
+title: 【名单】上海双一流名单 + 全国计算机非全名单
 description: 上海市双一流建设名单 + 全国招收计算机类非全日制硕士的学校
-icon: fa-study
+icon: study
 author: MSE 热线
 date: 2022-02-14 14:13:00
 category:
-  - 信息收集
+  - 信息汇总
 tag:
   - 招考数据
 ---
