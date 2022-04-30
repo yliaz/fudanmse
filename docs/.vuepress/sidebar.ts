@@ -1,7 +1,7 @@
 import { defineSidebarConfig } from "vuepress-theme-hope";
 
 export default defineSidebarConfig({
-  "/posts/": "structure",
+  "/posts": "structure",
   "/information": "structure",
-  "/statistics/": "structure",
+  "/statistics": "structure",
 });
