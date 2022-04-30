@@ -5,6 +5,6 @@ index: false
 ---
 
 
-- [2021级招生简章](./admissions-guide.md)
+- [历年招生简章](./admissions-guide.md)
 
 
