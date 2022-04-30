@@ -2,10 +2,10 @@
 home: true
 layout: Blog
 icon: home
-title: 最新消息
+title: 首页
 heroImage: /logo.svg
 bgImage: /heroImage.jpeg
-heroText: 复旦大学非全日制电子信息硕士最新通知（非官方）
+heroText: 复旦大学非全日制电子信息硕士（非官方）
 projects:
   - icon: project
     name: 项目名称

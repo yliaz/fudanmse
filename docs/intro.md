@@ -6,6 +6,6 @@ author: 站长小烨
 breadcrumb: false
 tag:
   - 站长
-sticky: 999
+star: 100
 ---
 待完成

@@ -24,6 +24,8 @@ export default defineThemeConfig({
   // sidebar
   sidebar: sidebar,
 
+  // breadcrumb: false,
+
   footer: "默认页脚",
 
   displayFooter: true,
@@ -34,9 +36,9 @@ export default defineThemeConfig({
 
   themeColor: false,
   blog: {
-    name: "复旦MSE热线",
+    name: "复旦 MSE 热线",
     description: "复旦大学非全日制MSE信息汇总（非官方）",
-    intro: "/intro.html",
+    intro: "/articles/intro.html",
     timeline: '今日',
     medias: {
       // Email: "https://example.com",

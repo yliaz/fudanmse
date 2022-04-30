@@ -3,7 +3,7 @@ import themeConfig from "./themeConfig";
 
 export default defineHopeConfig({
   lang: "zh-CN",
-  title: "复旦MSE热线",
+  title: "复旦 MSE 热线",
   description: "复旦电子信息非全日制考试相关信息汇总和经验总结",
 
   base: "/",
@@ -19,4 +19,7 @@ export default defineHopeConfig({
   ],
 
   themeConfig,
-});
+
+  
+})
+
