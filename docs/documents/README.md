@@ -1,5 +1,6 @@
 ---
-title: 官方文件
+title: 官方文件汇总
+icon: study
 article: false
 index: false
 ---
@@ -7,6 +8,8 @@ index: false
 ### 历年招生文件
 
 - [历年招生简章](./admissions-guide.md)
+
+- [历年招生目录](./major-list.md)
 
 - [历年复试名单](./re-examination-list.md)
 

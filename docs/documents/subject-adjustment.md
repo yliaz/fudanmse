@@ -1,8 +1,8 @@
 ---
-index: 4
+index: 5
 sticky: 10
 title: 【官方】专业课调整说明
-description: 2022年开始，专业课调整为408计算机学科专业基础综合
+description: 2022级开始，计算机专业课调整为408计算机学科专业基础综合
 icon: study
 author: 复旦官网
 date: 2021-03-25 00:00:00

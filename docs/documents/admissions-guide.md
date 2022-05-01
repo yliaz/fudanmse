@@ -4,7 +4,7 @@ title: 【官方】历年招生简章
 description: 复旦大学攻读非全日制电子信息专业学位硕士研究生历年招生简章
 icon: study
 author: 复旦官网
-date: 2021-09-24 00:00:00
+date: 2021-09-24
 category:
   - 官方文件
 tag:

@@ -1,5 +1,5 @@
 ---
-index: 3
+index: 4
 title: 【官方】历年复试工作细则
 description: 复旦大学攻读非全日制电子信息专业学位硕士研究生历年复试工作细则
 icon: study

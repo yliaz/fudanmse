@@ -4,4 +4,5 @@ export default defineSidebarConfig({
   "/posts": "structure",
   "/documents": "structure",
   "/statistics": "structure",
+  "/experience": "structure",
 });

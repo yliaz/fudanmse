@@ -1,5 +1,5 @@
 ---
-index: 2
+index: 3
 title: 【官方】历年复试名单
 description: 复旦大学攻读非全日制电子信息专业学位硕士研究生历年复试名单
 icon: study
