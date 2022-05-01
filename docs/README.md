@@ -19,7 +19,7 @@ projects:
   - icon: teach
     name: 最新宣讲会
     desc: 2022年4月30日举行
-    link: /posts/meetings/2022-04-25-meeting-announcement
+    link: /posts/meetings/2022-04-25-meeting
   - icon: article
     name: 推荐参考书
     desc: 推荐参考书投票数据
