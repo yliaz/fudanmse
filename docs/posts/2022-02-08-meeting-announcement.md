@@ -1,10 +1,10 @@
 ---
+index: -20220208
 title: 【宣讲会】2月13日下午将举行线上宣讲会
 description: 4月30日周六下午将举行2023级复旦大学非全日制电子信息硕士线上宣讲会
-icon: article
+icon: teach
 author: MSE 热线
-index: 20220208
-date: 2022-02-08 10:42:00
+date: 2022-02-08
 category:
   - 通知公告
 tag:
