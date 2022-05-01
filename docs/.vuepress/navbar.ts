@@ -5,7 +5,7 @@ export default defineNavbarConfig([
   { text: "通知公告", icon: "article", link: "/posts/" },
   { text: "官方文件", icon: "study", link: "/documents/" },
   { text: "数据统计", icon: "diagram", link: "/statistics/" },
-  { text: "备考经验", icon: "diamond", link: "/experience/" },
+  { text: "备考经验", icon: "diamond", link: "/experience/books/" },
   {
     text: "相关链接",
     icon: "link",
