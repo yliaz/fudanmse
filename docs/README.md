@@ -19,9 +19,9 @@ projects:
   - icon: teach
     name: 最新宣讲会
     desc: 2022年4月30日举行
-    link: /posts/2022-04-25-meeting-announcement
+    link: /posts/meetings/2022-04-25-meeting-announcement
   - icon: article
-    name: 历年复试细则
-    desc: 2017-2022年复试细则
-    link: /documents/re-examination-guide
+    name: 推荐参考书
+    desc: 推荐参考书投票数据
+    link: /experience/books/2021
 ---
