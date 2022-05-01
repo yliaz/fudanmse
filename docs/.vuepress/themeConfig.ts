@@ -93,5 +93,11 @@ export default defineThemeConfig({
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
     },
+
+    // docsearch: {
+    //   apiKey: '',
+    //   indexName: '',
+    //   appId: '',
+    // }
   },
 });
